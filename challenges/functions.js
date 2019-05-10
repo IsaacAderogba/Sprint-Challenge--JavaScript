@@ -7,6 +7,9 @@
   * In the body of the function return the callback with the two parameters that you created
 */
 
+console.log('\n*** Functions.js Section ***\n\n');
+
+
 function consume(param1, param2, cb) {
   return cb(param1,param2);
 }

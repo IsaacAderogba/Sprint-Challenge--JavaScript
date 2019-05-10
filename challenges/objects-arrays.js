@@ -6,6 +6,9 @@
   object name, diet, weight, length, period
 */
 
+console.log('\n*** Objects-arrays.js Section ***\n\n');
+
+
 class Dinosaur {
   constructor(dinosaur) {
     this.name = dinosaur.name;
